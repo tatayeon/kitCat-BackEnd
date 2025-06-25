@@ -2,7 +2,7 @@
 <img width="1171" alt="Image" src="https://github.com/user-attachments/assets/0e7af914-505b-466d-af6b-fe915882555a" />
 <br/>
 <br/>
-### <div align="center">퍼피니스는 개인의 운동을 넘어, 반려견과 함께하는 웰니스 라이프를 제공합니다.🐕</div>
+### <div align="center">🏃‍♂️‍➡️퍼피니스는 개인의 운동을 넘어, 반려견과 함께하는 웰니스 라이프를 제공합니다.🐕</div>
 <div align="center">나만의 산책 루틴에 따라 반려견과 함께하는 매일의 산책을 기록하고 운동량을 체크하여</div>
 <div align= "center"> 반려인과 반려견 모두가 건강한 생활을 할 수 있도록 돕는 서비스입니다.🚶‍♂️🚶‍♂️</div>
 <br/>
